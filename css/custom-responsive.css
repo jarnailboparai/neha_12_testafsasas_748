@@ -22,14 +22,14 @@
 	}	
 }
 
-@media (max-width: 350px){
+@media (max-width: 320px){
 	.logo {
     padding-top: 25%;
     width: 262px;
 	}
 	.app_feature_list {
-		margin: 0 5% 0px;	}
+		margin: 0 4% 25px;	}
 	.grid_menu{
-		width:320px;
+		width: 277px;
 	}
 }
